@@ -4,7 +4,7 @@ NOTE: a package manager, such as npm or yarn is required to run the script.
 
 open repository in an IDE and run the command "npm start" in order to host the website locally on your personal computer. 
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Crypto Currency Website
 
@@ -15,6 +15,9 @@ Provides current details such as current price, percentage change in 24 hours an
 Currencies can be filtered through to locate desired crypto currency
 
 Crypto Currency data is sourced from coingecko.com API, all information surrounding the currencies is updated in accordance to coingecko.com
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Project is not completely finished and is still being polished to provide a more user friendly and intutitive interface.
 
