@@ -1,3 +1,11 @@
+TO RUN THE APPLICATION LOCALLY:
+
+NOTE: a package manager, such as npm or yarn is required to run the script.
+
+open repository in an IDE and run the command "npm start" in order to host the website locally on your personal computer. 
+
+
+
 Crypto Currency Website
 
 Designed using react and javascript
